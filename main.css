@@ -82,3 +82,154 @@ line-height: 24px;
 
 color: #000000;
 }
+
+title1 {
+  position: absolute;
+width: 809px;
+height: 144px;
+left: 400px;
+top: 278px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 73px;
+
+
+color: #000000;
+}
+
+title2 {
+  position: absolute;
+width: 483px;
+height: 83px;
+left: 563px;
+top: 350px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 73px;
+
+color: #000000;
+
+}
+
+rectange1 {
+  position: absolute;
+width: 471px;
+height: 27px;
+left: 689px;
+top: 323px;
+z-index: -1;
+background: #82DEF2;
+}
+
+body1 {
+  position: absolute;
+width: 679px;
+height: 83px;
+left: 465px;
+top: 458px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 33px;
+
+color: #517EC1;
+}
+
+#image-b {
+  position: absolute;
+width: 100%;
+left: 0px;
+top: 1031px;
+}
+
+#title3 {
+  position: absolute;
+width: 372.45px;
+height: 95.3px;
+left: 586.35px;
+top: 1083.83px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 73px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+#virus {
+  position: absolute;
+left: 58.79%;
+right: 37.23%;
+top: 39.75%;
+bottom: 57.91%;
+}
+
+#background_r1 {
+  position: absolute;
+  width: 482.43px;
+  height: 442.08px;
+  left: 67.04px;
+  top: 1253.57px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+
+#text_title {
+  position: absolute;
+width: 226px;
+height: 57px;
+left: 106px;
+top: 1297px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 40px;
+
+color: #000000;
+
+}
+
+#text_bod {
+  position: absolute;
+width: 408.86px;
+height: 425.9px;
+left: 105.64px;
+top: 1397.06px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+
+color: #000000;
+}
+
+
+#bottom_box {
+
+  position: absolute;
+width: 100%;
+height: 408px;
+left: 0px;
+top: 2334px;
+
+background: #517EC1;
+}
