@@ -13,3 +13,72 @@ line-height: 32px;
 
 color: #000000;
 }
+
+h2 {
+  position: absolute;
+width: 118px;
+height: 24px;
+left: 795px;
+top: 104px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+h3 {
+  position: absolute;
+width: 135px;
+height: 36px;
+left: 1001px;
+top: 105px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+h4 {
+  position: absolute;
+width: 148px;
+height: 24px;
+left: 1182px;
+top: 107px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+h5 {
+  position: absolute;
+width: 90px;
+height: 60px;
+left: 1395px;
+top: 107px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+
+color: #000000;
+}
