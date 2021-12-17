@@ -1,3 +1,6 @@
+.the_bar {
+
+}
 h1 {
   position: absolute;
 width: 289px;
@@ -233,3 +236,94 @@ top: 2334px;
 
 background: #517EC1;
 }
+
+#background_r2 {
+  position: absolute;
+width: 428.45px;
+height: 619.5px;
+left: 612.95px;
+top: 1274.76px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#text_title2 {
+  position: absolute;
+width: 363.11px;
+height: 578.19px;
+left: 647.23px;
+top: 1335.55px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 40px;
+
+color: #000000;
+
+}
+
+#text_bod2 {
+  position: absolute;
+width: 363.11px;
+height: 578.19px;
+left: 647.23px;
+top: 1435.55px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+
+color: #000000;
+
+}
+
+#background_r3 {
+  position: absolute;
+  width: 425.66px;
+  height: 453.49px;
+  left: 1101.4px;
+  top: 1253.8px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#text_title3 {
+  position: absolute;
+width: 360.75px;
+height: 338.73px;
+left: 1134.39px;
+top: 1307.58px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 40px;
+
+color: #000000;
+}
+
+#text_bod3 {
+  position: absolute;
+width: 360.75px;
+height: 338.73px;
+left: 1134.39px;
+top: 1407.58px;
+
+font-family: Futura;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+
+color: #000000;
+}
+
