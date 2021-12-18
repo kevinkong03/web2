@@ -371,3 +371,14 @@ font-size: 30px;
 line-height: 40px;
 color: #FFFFFF;
 }
+
+/* visited link */
+a:visited {
+  color: #FFFFFF;
+}
+
+
+/* selected link */
+a:active {
+  color: #FFFFFF;
+}
