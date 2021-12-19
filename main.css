@@ -103,7 +103,7 @@ color: #000000;
 
 }
 
-rectange1 {
+rectangle1 {
   position: absolute;
 width: 471px;
 height: 27px;
@@ -332,10 +332,10 @@ color: #000000;
 
 #updated {
 position: absolute;
-width: 429px;
+width: 100%;
 height: 86px;
-left: 590px;
 top: 2404px;
+text-align: center;
 font-family: Futura;
 font-style: normal;
 font-weight: bold;
@@ -346,10 +346,10 @@ color: #FFFFFF;
 
 #latest {
 position: absolute;
-width: 347px;
+width: 100%;
 height: 48px;
-left: 631px;
 top: 2518px;
+text-align: center;
 font-family: Futura;
 font-style: normal;
 font-weight: bold;
@@ -360,10 +360,10 @@ color: #FFFFFF;
 
 #clickhere {
 position: absolute;
-width: 206px;
+width: 100%;
 height: 40px;
-left: 702px;
 top: 2617px;
+text-align: center;
 font-family: Futura;
 font-style: normal;
 font-weight: bold;
