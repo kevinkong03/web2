@@ -74,17 +74,18 @@ rectangle2 {
   position: absolute;
 width: 276px;
 height: 26px;
-left: 734px;
+left: 46.7%;
 top: 2447px;
 z-index: -1;
 background: #32C7E8;
+margin: auto;
 }
 
 rectangle3 {
 position: absolute;
 width: 257.53px;
 height: 88.4px;
-left: 676px;
+left: 43.7%;
 top: 2593px;
 
 background: #517EC1;
